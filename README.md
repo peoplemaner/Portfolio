@@ -19,12 +19,13 @@
     
   서비스 소개
   
+  달빛 라이브(개인 방송 플랫폼)
+  
   ![크기변환 dalbit1](https://user-images.githubusercontent.com/71489873/113678244-67f40300-96f9-11eb-995e-0ba836e51c54.jpg)
   ![크기변환 dalbit2](https://user-images.githubusercontent.com/71489873/113678251-688c9980-96f9-11eb-835d-948c299377cf.jpg)
   ![크기변환 dalbit3](https://user-images.githubusercontent.com/71489873/113678254-69253000-96f9-11eb-9f6b-7000b9bfd345.jpg)
   ![크기변환 dalbit4](https://user-images.githubusercontent.com/71489873/113678258-69253000-96f9-11eb-9dc4-c531c26f1539.jpg)
   
-  개인 방송 플랫폼
 
 파이브스타게임즈(2018.06 ~ 2020.10)
 
@@ -44,6 +45,15 @@
     Happy Table - 노인 시설 납품 소프트웨어, Unity를 활용한 MiniGame 개발
     서울로 7017 VR 영상 체험 컨텐츠 개발
     MiniGame Streamer - 스트리머 컨셉 종합 미니 게임(모바일, Gyro 데이터 활용) 개발 중
+    
+  서비스 소개
+  
+  이런 영웅은 싫어M
+  
+  ![image](https://user-images.githubusercontent.com/71489873/113681641-2b2a0b00-96fd-11eb-838e-9c2e9c7f2e5c.png)
+  
+  금성보안 CCTV 관제 시스템, Bakery VR, Happy Table, 서울로 7017 VR 영상 체험 컨텐츠, MiniGame Streamer
+
 
 티엔에이치(2014.12 ~ 2018.06)
 
