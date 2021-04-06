@@ -62,4 +62,6 @@
 
 티엔에이치
 의원/한의원 EMR/CRM 솔루션
+
+![image](https://user-images.githubusercontent.com/71489873/113678722-ebadef80-96f9-11eb-9341-0667318a0b0d.png)
 전자차트(EMR), 고객관리(CRM), 보험청구, 차트 작성, 전자서명, 발신자 확인(CTI) 연동 예약
