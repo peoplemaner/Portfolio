@@ -51,6 +51,11 @@
     
    
 인포렉스
+![크기변환 dalbit1](https://user-images.githubusercontent.com/71489873/113677653-c967a200-96f8-11eb-9840-db284234a1d6.jpg)
+![크기변환 dalbit2](https://user-images.githubusercontent.com/71489873/113677838-f87e1380-96f8-11eb-8b68-07ef0b00c2aa.jpg)
+![크기변환 dalbit3](https://user-images.githubusercontent.com/71489873/113677846-fae06d80-96f8-11eb-8083-0e0cb7516d3c.jpg)
+![크기변환 dalbit4](https://user-images.githubusercontent.com/71489873/113677858-fd42c780-96f8-11eb-9be0-b57ad79288ac.jpg)
+
 
 파이브스타게임즈
 
