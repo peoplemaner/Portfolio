@@ -27,6 +27,7 @@
   ![크기변환 dalbit4](https://user-images.githubusercontent.com/71489873/113678258-69253000-96f9-11eb-9dc4-c531c26f1539.jpg)
   
 
+
 파이브스타게임즈(2018.06 ~ 2020.10)
 
     게임 서버 개발 - Node.js, Socket.io, Redis, NaverCloudPlatform, LoadBalancer
@@ -53,6 +54,7 @@
   ![image](https://user-images.githubusercontent.com/71489873/113681641-2b2a0b00-96fd-11eb-838e-9c2e9c7f2e5c.png)
   
   금성보안 CCTV 관제 시스템, Bakery VR, Happy Table, 서울로 7017 VR 영상 체험 컨텐츠, MiniGame Streamer
+
 
 
 티엔에이치(2014.12 ~ 2018.06)
