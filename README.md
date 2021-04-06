@@ -18,10 +18,11 @@
     달빛 라이브 방송방 채팅 서버 - Node.js(Socket Cluster)
     
   서비스 소개
+  
     ![크기변환 dalbit1](https://user-images.githubusercontent.com/71489873/113678244-67f40300-96f9-11eb-995e-0ba836e51c54.jpg)
-![크기변환 dalbit2](https://user-images.githubusercontent.com/71489873/113678251-688c9980-96f9-11eb-835d-948c299377cf.jpg)
-![크기변환 dalbit3](https://user-images.githubusercontent.com/71489873/113678254-69253000-96f9-11eb-9f6b-7000b9bfd345.jpg)
-![크기변환 dalbit4](https://user-images.githubusercontent.com/71489873/113678258-69253000-96f9-11eb-9dc4-c531c26f1539.jpg)
+    ![크기변환 dalbit2](https://user-images.githubusercontent.com/71489873/113678251-688c9980-96f9-11eb-835d-948c299377cf.jpg)
+    ![크기변환 dalbit3](https://user-images.githubusercontent.com/71489873/113678254-69253000-96f9-11eb-9f6b-7000b9bfd345.jpg)
+    ![크기변환 dalbit4](https://user-images.githubusercontent.com/71489873/113678258-69253000-96f9-11eb-9dc4-c531c26f1539.jpg)
 
 파이브스타게임즈(2018.06 ~ 2020.10)
 
@@ -56,6 +57,6 @@
     의원 개별 NAS 운영
 
   서비스 소개
-  의원/한의원 EMR/CRM 솔루션
-![image](https://user-images.githubusercontent.com/71489873/113680622-06816380-96fc-11eb-88e3-0bfcf360e76a.png)
-  전자차트(EMR), 고객관리(CRM), 보험청구, 차트 작성, 전자서명, 발신자 확인(CTI) 연동 예약
+    의원/한의원 EMR/CRM 솔루션
+    ![image](https://user-images.githubusercontent.com/71489873/113680622-06816380-96fc-11eb-88e3-0bfcf360e76a.png)
+    전자차트(EMR), 고객관리(CRM), 보험청구, 차트 작성, 전자서명, 발신자 확인(CTI) 연동 예약
