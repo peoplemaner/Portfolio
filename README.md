@@ -27,8 +27,8 @@
 
     이런 영웅은 싫어M - 서버 개발, NaverCloudPlatform(Ubuntu, DB, CDN, Redis, LoadBalancer 서버) 운영
     이런 영웅은 싫어M - 관리자 운영 툴 개발
-    유미의 세포들 VR - 운영툴 개발(Nunjucks, HTML5, Sequelize 활용) : 진행 중
-    - 매칭 서버 개발(Node.js Socket.io, NoSql(MongoDB) 활용) : 다른 업체로 이관 됨.
+    유미의 세포들 VR - 운영툴 개발(Nunjucks, HTML5, Sequelize 활용)
+                 - 매칭 서버 개발(Node.js Socket.io, NoSql(MongoDB) 활용)
 
     금성보안 CCTV 관제 시스템 - 개발 및 유지 보수
     Bakery VR - 제과제빵 자격증 관련 VR 교육 컨텐츠 개발
