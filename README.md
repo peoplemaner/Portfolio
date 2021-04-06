@@ -4,11 +4,11 @@
 
 기술 요약
 
-    Server - Node.js(Web/Socket.io/Socket Cluster), Redis, CDN, RabbitMQ, 
+    Server - Node.js(Web/Socket.io/Socket Cluster), Redis, RabbitMQ
     Client - HTML, CSS, Javascript, JQuery, AJAX, React(Low Level), Unity(Low Level)
     Database - Mysql(MariaDB Cluster, R/W 설계), MongoDB(Low Level)
     OS - Linux 서버 운용(CentOS 7), Windows Server 2016
-    Server Infra - NCP(Naver Cloud Flatform), AWS(EC2/Low Level), NginX, HAProxy
+    Server Infra - NCP(Naver Cloud Flatform/CDN, LB, Ubuntu, Mysql, Redis), AWS(EC2/Low Level), NginX, HAProxy
     etc - Docker(Low Level)
 
 경력 사항
