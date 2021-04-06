@@ -3,14 +3,16 @@
 박시혁 1986년 (36세) | 남
 
 기술 요약
-Server - Node.js(Web/Socket.io/Socket Cluster), Redis, CDN, RabbitMQ, 
-Client - HTML, CSS, Javascript, JQuery, AJAX, React(Low Level), Unity(Low Level)
-Database - Mysql(MariaDB Cluster, R/W 설계), MongoDB(Low Level)
-OS - Linux 서버 운용(CentOS 7), Windows Server 2016
-Server Infra - NCP(Naver Cloud Flatform), AWS(EC2/Low Level), NginX, HAProxy
-etc - Docker(Low Level)
+
+    Server - Node.js(Web/Socket.io/Socket Cluster), Redis, CDN, RabbitMQ, 
+    Client - HTML, CSS, Javascript, JQuery, AJAX, React(Low Level), Unity(Low Level)
+    Database - Mysql(MariaDB Cluster, R/W 설계), MongoDB(Low Level)
+    OS - Linux 서버 운용(CentOS 7), Windows Server 2016
+    Server Infra - NCP(Naver Cloud Flatform), AWS(EC2/Low Level), NginX, HAProxy
+    etc - Docker(Low Level)
 
 경력 사항
+
 인포렉스(2020.11 ~ 재직중)
 
     달빛 라이브 방송방 채팅 서버 - Node.js(Socket Cluster)
