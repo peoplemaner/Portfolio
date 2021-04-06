@@ -30,9 +30,9 @@
 -----------------------------------------------------------------------------------------------------------------------------------
 파이브스타게임즈(2018.06 ~ 2020.10)
 
-    게임 서버 개발 - Node.js, Socket.io, Redis, NaverCloudPlatform, LoadBalancer
-    게임 운영툴 개발 - HTML, CSS, Javascript, JQuery
-    DB - MySQL
+    게임 서버 - Node.js, Socket.io, Redis, NaverCloudPlatform, LoadBalancer
+    게임 운영툴 - HTML, CSS, Javascript, JQuery
+    Database - MySQL
     게임 클라이언트 개발 - Unity
     사내 네트워크 관리, FTP / NAS 서버 운영
 
