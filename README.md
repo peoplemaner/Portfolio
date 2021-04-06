@@ -51,12 +51,9 @@
     
    
 인포렉스
-![dalbit1](https://user-images.githubusercontent.com/71489873/113673663-3e84a880-96f4-11eb-8dca-a40040babacd.jpeg)
-
 
 파이브스타게임즈
 
 티엔에이치
-![image](https://user-images.githubusercontent.com/71489873/113672589-f0bb7080-96f2-11eb-898d-96bebf991704.png)
 의원/한의원 EMR/CRM 솔루션
 전자차트(EMR), 고객관리(CRM), 보험청구, 차트 작성, 전자서명, 발신자 확인(CTI) 연동 예약
