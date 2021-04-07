@@ -1,0 +1,102 @@
+2021-01-19 05:35:01 error: checkAPIAndDatabase : https://devapi2.dalbitlive.com/socket/dbCheck/bySocket : Axios Error : Error: timeout of 10000ms exceeded : failCount = 1
+2021-01-19 05:35:11 error: checkAPIAndDatabase : http://wadmin2.inforex.co.kr/socket/dbCheck/bySocket : Axios Error : Error: timeout of 10000ms exceeded : failCount = 1
+2021-01-19 08:22:16 error: healthCheck : Axios Send Error : https://devapi2.dalbitlive.com/ctrl/check/service : Error: Request failed with status code 503 : failCount = 1
+2021-01-19 08:22:20 error: checkAPIAndDatabase : https://devapi2.dalbitlive.com/socket/dbCheck/bySocket : Axios Error : Error: Request failed with status code 503 : failCount = 1
+2021-01-19 08:22:37 error: healthCheck : Axios Send Error : https://devapi2.dalbitlive.com/ctrl/check/service : Error: timeout of 10000ms exceeded : failCount = 2
+2021-01-19 08:22:47 error: checkAPIAndDatabase : https://devapi2.dalbitlive.com/socket/dbCheck/bySocket : Axios Error : Error: timeout of 10000ms exceeded : failCount = 2
+2021-01-19 08:22:52 error: healthCheck : Axios Send Error : https://devapi2.dalbitlive.com/ctrl/check/service : Error: timeout of 10000ms exceeded : failCount = 3
+2021-01-19 08:22:52 error: [SEND_WARNING]====================================================
+2021-01-19 08:22:52 error: [HEALTH_CHECK_FAIL] URL - https://devapi2.dalbitlive.com/ctrl/check/service : Error: timeout of 10000ms exceeded : failCount = 3
+2021-01-19 08:22:57 error: [SEND_WARNING]====================================================
+2021-01-19 08:22:57 error: [HEALTH_CHECK_NOMALIZED] URL - https://devapi2.dalbitlive.com/ctrl/check/service : failCount = 3
+2021-01-19 09:10:41 error: healthCheck : Axios Send Error : https://devapi2.dalbitlive.com/ctrl/check/service : Error: timeout of 10000ms exceeded : failCount = 1
+2021-01-19 09:10:52 error: checkAPIAndDatabase : https://devapi2.dalbitlive.com/socket/dbCheck/bySocket : Axios Error : Error: timeout of 10000ms exceeded : failCount = 1
+2021-01-19 09:10:56 error: healthCheck : Axios Send Error : https://devapi2.dalbitlive.com/ctrl/check/service : Error: timeout of 10000ms exceeded : failCount = 2
+2021-01-19 13:32:31 error: healthCheck : Axios Send Error : https://devapi2.dalbitlive.com/ctrl/check/service : Error: Request failed with status code 503 : failCount = 1
+2021-01-19 13:32:36 error: checkAPIAndDatabase : https://devapi2.dalbitlive.com/socket/dbCheck/bySocket : Axios Error : Error: timeout of 5000ms exceeded : failCount = 1
+2021-01-19 13:32:47 error: healthCheck : Axios Send Error : https://devapi2.dalbitlive.com/ctrl/check/service : Error: timeout of 5000ms exceeded : failCount = 2
+2021-01-19 13:32:47 error: [SEND_WARNING]====================================================
+2021-01-19 13:32:47 error: [HEALTH_CHECK_FAIL] URL - https://devapi2.dalbitlive.com/ctrl/check/service : Error: timeout of 5000ms exceeded : failCount = 2
+2021-01-19 13:32:52 error: checkAPIAndDatabase : https://devapi2.dalbitlive.com/socket/dbCheck/bySocket : Axios Error : Error: timeout of 5000ms exceeded : failCount = 2
+2021-01-19 13:32:52 error: [SEND_WARNING]====================================================
+2021-01-19 13:32:52 error: [REST_FAIL] URL - https://devapi2.dalbitlive.com/socket/dbCheck/bySocket Error: timeout of 5000ms exceeded : failCount = 2
+2021-01-19 13:33:02 error: healthCheck : Axios Send Error : https://devapi2.dalbitlive.com/ctrl/check/service : Error: timeout of 5000ms exceeded : failCount = 3
+2021-01-19 13:33:06 error: [SEND_WARNING]====================================================
+2021-01-19 13:33:06 error: [API_DATABASE_NORMALIZED] URL - https://devapi2.dalbitlive.com/socket/dbCheck/bySocket : failCount = 2
+2021-01-19 13:33:12 error: [SEND_WARNING]====================================================
+2021-01-19 13:33:12 error: [HEALTH_CHECK_NOMALIZED] URL - https://devapi2.dalbitlive.com/ctrl/check/service : failCount = 3
+2021-01-19 15:00:36 error: healthCheck : Axios Send Error : https://devapi2.dalbitlive.com/ctrl/check/service : Error: Request failed with status code 503 : failCount = 1
+2021-01-19 15:00:40 error: checkAPIAndDatabase : https://devapi2.dalbitlive.com/socket/dbCheck/bySocket : Axios Error : Error: Request failed with status code 503 : failCount = 1
+2021-01-19 15:00:51 error: healthCheck : Axios Send Error : https://devapi2.dalbitlive.com/ctrl/check/service : Error: timeout of 5000ms exceeded : failCount = 2
+2021-01-19 15:00:51 error: [SEND_WARNING]====================================================
+2021-01-19 15:00:51 error: [HEALTH_CHECK_FAIL] URL - https://devapi2.dalbitlive.com/ctrl/check/service : Error: timeout of 5000ms exceeded : failCount = 2
+2021-01-19 15:00:56 error: checkAPIAndDatabase : https://devapi2.dalbitlive.com/socket/dbCheck/bySocket : Axios Error : Error: timeout of 5000ms exceeded : failCount = 2
+2021-01-19 15:00:56 error: [SEND_WARNING]====================================================
+2021-01-19 15:00:56 error: [REST_FAIL] URL - https://devapi2.dalbitlive.com/socket/dbCheck/bySocket Error: timeout of 5000ms exceeded : failCount = 2
+2021-01-19 15:01:06 error: healthCheck : Axios Send Error : https://devapi2.dalbitlive.com/ctrl/check/service : Error: timeout of 5000ms exceeded : failCount = 3
+2021-01-19 15:01:12 error: checkAPIAndDatabase : https://devapi2.dalbitlive.com/socket/dbCheck/bySocket : Axios Error : Error: timeout of 5000ms exceeded : failCount = 3
+2021-01-19 15:01:16 error: [SEND_WARNING]====================================================
+2021-01-19 15:01:16 error: [HEALTH_CHECK_NOMALIZED] URL - https://devapi2.dalbitlive.com/ctrl/check/service : failCount = 3
+2021-01-19 15:01:17 error: [SEND_WARNING]====================================================
+2021-01-19 15:01:17 error: [API_DATABASE_NORMALIZED] URL - https://devapi2.dalbitlive.com/socket/dbCheck/bySocket : failCount = 3
+2021-01-19 15:08:52 error: healthCheck : Axios Send Error : https://devapi2.dalbitlive.com/ctrl/check/service : Error: Request failed with status code 503 : failCount = 1
+2021-01-19 15:08:56 error: checkAPIAndDatabase : https://devapi2.dalbitlive.com/socket/dbCheck/bySocket : Axios Error : Error: Request failed with status code 503 : failCount = 1
+2021-01-19 15:09:08 error: healthCheck : Axios Send Error : https://devapi2.dalbitlive.com/ctrl/check/service : Error: timeout of 5000ms exceeded : failCount = 2
+2021-01-19 15:09:08 error: [SEND_WARNING]====================================================
+2021-01-19 15:09:08 error: [HEALTH_CHECK_FAIL] URL - https://devapi2.dalbitlive.com/ctrl/check/service : Error: timeout of 5000ms exceeded : failCount = 2
+2021-01-19 15:09:13 error: checkAPIAndDatabase : https://devapi2.dalbitlive.com/socket/dbCheck/bySocket : Axios Error : Error: timeout of 5000ms exceeded : failCount = 2
+2021-01-19 15:09:13 error: [SEND_WARNING]====================================================
+2021-01-19 15:09:13 error: [REST_FAIL] URL - https://devapi2.dalbitlive.com/socket/dbCheck/bySocket Error: timeout of 5000ms exceeded : failCount = 2
+2021-01-19 15:09:23 error: healthCheck : Axios Send Error : https://devapi2.dalbitlive.com/ctrl/check/service : Error: timeout of 5000ms exceeded : failCount = 3
+2021-01-19 15:09:28 error: checkAPIAndDatabase : https://devapi2.dalbitlive.com/socket/dbCheck/bySocket : Axios Error : Error: timeout of 5000ms exceeded : failCount = 3
+2021-01-19 15:09:33 error: [SEND_WARNING]====================================================
+2021-01-19 15:09:33 error: [HEALTH_CHECK_NOMALIZED] URL - https://devapi2.dalbitlive.com/ctrl/check/service : failCount = 3
+2021-01-19 15:09:33 error: [SEND_WARNING]====================================================
+2021-01-19 15:09:33 error: [API_DATABASE_NORMALIZED] URL - https://devapi2.dalbitlive.com/socket/dbCheck/bySocket : failCount = 3
+2021-01-19 15:41:05 error: healthCheck : Axios Send Error : https://devapi2.dalbitlive.com/ctrl/check/service : Error: timeout of 5000ms exceeded : failCount = 1
+2021-01-19 15:41:11 error: checkAPIAndDatabase : https://devapi2.dalbitlive.com/socket/dbCheck/bySocket : Axios Error : Error: timeout of 5000ms exceeded : failCount = 1
+2021-01-19 15:41:21 error: healthCheck : Axios Send Error : https://devapi2.dalbitlive.com/ctrl/check/service : Error: timeout of 5000ms exceeded : failCount = 2
+2021-01-19 15:41:21 error: [SEND_WARNING]====================================================
+2021-01-19 15:41:21 error: [HEALTH_CHECK_FAIL] URL - https://devapi2.dalbitlive.com/ctrl/check/service : Error: timeout of 5000ms exceeded : failCount = 2
+2021-01-19 15:41:26 error: checkAPIAndDatabase : https://devapi2.dalbitlive.com/socket/dbCheck/bySocket : Axios Error : Error: timeout of 5000ms exceeded : failCount = 2
+2021-01-19 15:41:26 error: [SEND_WARNING]====================================================
+2021-01-19 15:41:26 error: [REST_FAIL] URL - https://devapi2.dalbitlive.com/socket/dbCheck/bySocket Error: timeout of 5000ms exceeded : failCount = 2
+2021-01-19 15:41:32 error: [SEND_WARNING]====================================================
+2021-01-19 15:41:32 error: [HEALTH_CHECK_NOMALIZED] URL - https://devapi2.dalbitlive.com/ctrl/check/service : failCount = 2
+2021-01-19 15:41:32 error: [SEND_WARNING]====================================================
+2021-01-19 15:41:32 error: [API_DATABASE_NORMALIZED] URL - https://devapi2.dalbitlive.com/socket/dbCheck/bySocket : failCount = 2
+2021-01-19 15:58:52 error: checkAPIAndDatabase : http://wadmin2.inforex.co.kr/socket/dbCheck/bySocket : Axios Error : Error: Request failed with status code 503 : failCount = 1
+2021-01-19 15:59:08 error: checkAPIAndDatabase : http://wadmin2.inforex.co.kr/socket/dbCheck/bySocket : Axios Error : Error: timeout of 5000ms exceeded : failCount = 2
+2021-01-19 15:59:08 error: [SEND_WARNING]====================================================
+2021-01-19 15:59:08 error: [REST_FAIL] URL - http://wadmin2.inforex.co.kr/socket/dbCheck/bySocket Error: timeout of 5000ms exceeded : failCount = 2
+2021-01-19 15:59:23 error: checkAPIAndDatabase : http://wadmin2.inforex.co.kr/socket/dbCheck/bySocket : Axios Error : Error: timeout of 5000ms exceeded : failCount = 3
+2021-01-19 15:59:38 error: checkAPIAndDatabase : http://wadmin2.inforex.co.kr/socket/dbCheck/bySocket : Axios Error : Error: timeout of 5000ms exceeded : failCount = 4
+2021-01-19 15:59:48 error: [SEND_WARNING]====================================================
+2021-01-19 15:59:48 error: [API_DATABASE_NORMALIZED] URL - http://wadmin2.inforex.co.kr/socket/dbCheck/bySocket : failCount = 4
+2021-01-19 16:09:09 error: checkAPIAndDatabase : http://wadmin2.inforex.co.kr/socket/dbCheck/bySocket : Axios Error : Error: timeout of 5000ms exceeded : failCount = 1
+2021-01-19 16:09:24 error: checkAPIAndDatabase : http://wadmin2.inforex.co.kr/socket/dbCheck/bySocket : Axios Error : Error: timeout of 5000ms exceeded : failCount = 2
+2021-01-19 16:09:24 error: [SEND_WARNING]====================================================
+2021-01-19 16:09:24 error: [REST_FAIL] URL - http://wadmin2.inforex.co.kr/socket/dbCheck/bySocket Error: timeout of 5000ms exceeded : failCount = 2
+2021-01-19 16:09:39 error: checkAPIAndDatabase : http://wadmin2.inforex.co.kr/socket/dbCheck/bySocket : Axios Error : Error: timeout of 5000ms exceeded : failCount = 3
+2021-01-19 16:09:52 error: [SEND_WARNING]====================================================
+2021-01-19 16:09:52 error: [API_DATABASE_NORMALIZED] URL - http://wadmin2.inforex.co.kr/socket/dbCheck/bySocket : failCount = 3
+2021-01-19 16:12:53 error: healthCheck : Axios Send Error : https://devapi2.dalbitlive.com/ctrl/check/service : Error: Request failed with status code 503 : failCount = 1
+2021-01-19 16:12:58 error: checkAPIAndDatabase : https://devapi2.dalbitlive.com/socket/dbCheck/bySocket : Axios Error : Error: timeout of 5000ms exceeded : failCount = 1
+2021-01-19 16:13:09 error: healthCheck : Axios Send Error : https://devapi2.dalbitlive.com/ctrl/check/service : Error: timeout of 5000ms exceeded : failCount = 2
+2021-01-19 16:13:09 error: [SEND_WARNING]====================================================
+2021-01-19 16:13:09 error: [HEALTH_CHECK_FAIL] URL - https://devapi2.dalbitlive.com/ctrl/check/service : Error: timeout of 5000ms exceeded : failCount = 2
+2021-01-19 16:13:14 error: checkAPIAndDatabase : https://devapi2.dalbitlive.com/socket/dbCheck/bySocket : Axios Error : Error: timeout of 5000ms exceeded : failCount = 2
+2021-01-19 16:13:14 error: [SEND_WARNING]====================================================
+2021-01-19 16:13:14 error: [REST_FAIL] URL - https://devapi2.dalbitlive.com/socket/dbCheck/bySocket Error: timeout of 5000ms exceeded : failCount = 2
+2021-01-19 16:13:24 error: healthCheck : Axios Send Error : https://devapi2.dalbitlive.com/ctrl/check/service : Error: timeout of 5000ms exceeded : failCount = 3
+2021-01-19 16:13:28 error: [SEND_WARNING]====================================================
+2021-01-19 16:13:28 error: [API_DATABASE_NORMALIZED] URL - https://devapi2.dalbitlive.com/socket/dbCheck/bySocket : failCount = 2
+2021-01-19 16:13:34 error: [SEND_WARNING]====================================================
+2021-01-19 16:13:34 error: [HEALTH_CHECK_NOMALIZED] URL - https://devapi2.dalbitlive.com/ctrl/check/service : failCount = 3
+2021-01-19 16:19:25 error: checkAPIAndDatabase : http://wadmin2.inforex.co.kr/socket/dbCheck/bySocket : Axios Error : Error: timeout of 5000ms exceeded : failCount = 1
+2021-01-19 16:19:40 error: checkAPIAndDatabase : http://wadmin2.inforex.co.kr/socket/dbCheck/bySocket : Axios Error : Error: timeout of 5000ms exceeded : failCount = 2
+2021-01-19 16:19:40 error: [SEND_WARNING]====================================================
+2021-01-19 16:19:40 error: [REST_FAIL] URL - http://wadmin2.inforex.co.kr/socket/dbCheck/bySocket Error: timeout of 5000ms exceeded : failCount = 2
+2021-01-19 16:19:55 error: checkAPIAndDatabase : http://wadmin2.inforex.co.kr/socket/dbCheck/bySocket : Axios Error : Error: timeout of 5000ms exceeded : failCount = 3
+2021-01-19 16:20:08 error: [SEND_WARNING]====================================================
+2021-01-19 16:20:08 error: [API_DATABASE_NORMALIZED] URL - http://wadmin2.inforex.co.kr/socket/dbCheck/bySocket : failCount = 3

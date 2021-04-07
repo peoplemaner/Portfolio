@@ -1,0 +1,7 @@
+2021-01-24 00:00:04 error: [API_MIN_MAX] min: 26ms, max: 114ms [https://api.dalbitlive.com/socket/dbCheck/bySocket]
+2021-01-24 00:00:04 error: [API_MIN_MAX] min: 24ms, max: 221ms [http://dalbit.inforex.co.kr/socket/dbCheck/bySocket]
+2021-01-24 00:00:04 error: [API_MIN_MAX] min: 21ms, max: 3051ms [https://devphoto2.dalbitlive.com/dbCheck/bySocket]
+2021-01-24 00:00:04 error: [API_MIN_MAX] min: 33ms, max: 140ms [https://pay.dalbitlive.com/socket/dbCheck/bySocket]
+2021-01-24 00:00:04 error: [API_MIN_MAX] min: 5ms, max: 188ms [https://sv163.dalbitlive.com:8000/health-check]
+2021-01-24 00:00:04 error: [API_MIN_MAX] min: 4ms, max: 256ms [https://sv164.dalbitlive.com:8000/health-check]
+2021-01-24 00:00:04 error: [API_MIN_MAX] min: 4ms, max: 24ms [https://api.dalbitlive.com/ctrl/check/service]

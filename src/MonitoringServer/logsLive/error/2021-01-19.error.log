@@ -1,0 +1,25 @@
+2021-01-19 05:52:47 error: checkAPIAndDatabase : https://api.dalbitlive.com/socket/dbCheck/bySocket : Axios Error : Error: timeout of 10000ms exceeded : failCount = 1
+2021-01-19 09:40:20 error: checkAPIAndDatabase : http://dalbit.inforex.co.kr/socket/dbCheck/bySocket : Axios Error : Error: Request failed with status code 503 : failCount = 1
+2021-01-19 09:40:35 error: checkAPIAndDatabase : http://dalbit.inforex.co.kr/socket/dbCheck/bySocket : Axios Error : Error: Request failed with status code 503 : failCount = 2
+2021-01-19 10:00:31 error: checkAPIAndDatabase : https://api.dalbitlive.com/socket/dbCheck/bySocket : fail : 9088ms : failCount = 1
+2021-01-19 10:00:46 error: checkAPIAndDatabase : https://api.dalbitlive.com/socket/dbCheck/bySocket : fail : 9205ms : failCount = 2
+2021-01-19 10:01:01 error: checkAPIAndDatabase : https://api.dalbitlive.com/socket/dbCheck/bySocket : fail : 9091ms : failCount = 3
+2021-01-19 10:01:01 error: [SEND_WARNING]====================================================
+2021-01-19 10:01:01 error: [DATABASE_FAIL] URL - https://api.dalbitlive.com/socket/dbCheck/bySocket Other : failCount = 3
+2021-01-19 10:01:16 error: checkAPIAndDatabase : https://api.dalbitlive.com/socket/dbCheck/bySocket : fail : 9048ms : failCount = 4
+2021-01-19 10:01:31 error: checkAPIAndDatabase : https://api.dalbitlive.com/socket/dbCheck/bySocket : fail : 9090ms : failCount = 5
+2021-01-19 10:01:46 error: checkAPIAndDatabase : https://api.dalbitlive.com/socket/dbCheck/bySocket : fail : 9075ms : failCount = 6
+2021-01-19 10:02:01 error: checkAPIAndDatabase : https://api.dalbitlive.com/socket/dbCheck/bySocket : fail : 9029ms : failCount = 7
+2021-01-19 10:02:16 error: checkAPIAndDatabase : https://api.dalbitlive.com/socket/dbCheck/bySocket : fail : 9058ms : failCount = 8
+2021-01-19 10:02:31 error: checkAPIAndDatabase : https://api.dalbitlive.com/socket/dbCheck/bySocket : fail : 9072ms : failCount = 9
+2021-01-19 10:02:46 error: checkAPIAndDatabase : https://api.dalbitlive.com/socket/dbCheck/bySocket : fail : 9177ms : failCount = 10
+2021-01-19 10:03:01 error: checkAPIAndDatabase : https://api.dalbitlive.com/socket/dbCheck/bySocket : fail : 9080ms : failCount = 11
+2021-01-19 10:03:07 error: [SEND_WARNING]====================================================
+2021-01-19 10:03:07 error: [API_DATABASE_NORMALIZED] URL - https://api.dalbitlive.com/socket/dbCheck/bySocket : failCount = 11
+2021-01-19 11:33:02 error: checkAPIAndDatabase : http://dalbit.inforex.co.kr/socket/dbCheck/bySocket : Axios Error : Error: Request failed with status code 503 : failCount = 1
+2021-01-19 15:29:45 error: checkAPIAndDatabase : http://dalbit.inforex.co.kr/socket/dbCheck/bySocket : Axios Error : Error: Request failed with status code 503 : failCount = 1
+2021-01-19 15:48:01 error: checkAPIAndDatabase : http://dalbit.inforex.co.kr/socket/dbCheck/bySocket : Axios Error : Error: Request failed with status code 503 : failCount = 1
+2021-01-19 16:20:50 error: checkAPIAndDatabase : http://dalbit.inforex.co.kr/socket/dbCheck/bySocket : Axios Error : Error: Request failed with status code 503 : failCount = 1
+2021-01-19 16:39:35 error: [API_AND_DATABASE] : http://dalbit.inforex.co.kr/socket/dbCheck/bySocket : Axios Error : Error: Request failed with status code 503 : failCount = 1
+2021-01-19 19:11:21 error: [API_AND_DATABASE] : https://api.dalbitlive.com/socket/dbCheck/bySocket : failMessage = fail : 30ms : failCount = 1
+2021-01-19 19:11:21 error: [API_AND_DATABASE] : http://dalbit.inforex.co.kr/socket/dbCheck/bySocket : failMessage = fail : 35ms : failCount = 1

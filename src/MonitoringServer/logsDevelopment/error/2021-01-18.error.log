@@ -1,0 +1,66 @@
+2021-01-18 09:06:51 error: [SEND_WARNING]====================================================
+2021-01-18 09:06:51 error: [HEALTH_CHECK_NOMALIZED] URL - https://devapi2.dalbitlive.com/ctrl/check/service : failCount = 0
+2021-01-18 09:06:51 error: [SEND_WARNING]====================================================
+2021-01-18 09:06:51 error: [HEALTH_CHECK_NOMALIZED] URL - https://devpay2.dalbitlive.com/ctrl/check/service : failCount = 0
+2021-01-18 09:06:51 error: [SEND_WARNING]====================================================
+2021-01-18 09:06:51 error: [HEALTH_CHECK_NOMALIZED] URL - https://devphoto2.dalbitlive.com/ctrl/check/service : failCount = 0
+2021-01-18 09:06:51 error: [SEND_WARNING]====================================================
+2021-01-18 09:06:51 error: [HEALTH_CHECK_NOMALIZED] URL - https://devm2.dalbitlive.com/ctrl/check/service : failCount = 0
+2021-01-18 09:06:51 error: [SEND_WARNING]====================================================
+2021-01-18 09:06:51 error: [HEALTH_CHECK_NOMALIZED] URL - https://devwww2.dalbitlive.com/ctrl/check/service : failCount = 0
+2021-01-18 09:06:51 error: [SEND_WARNING]====================================================
+2021-01-18 09:06:51 error: [API_DATABASE_NORMALIZED] URL - https://devapi2.dalbitlive.com/socket/dbCheck/bySocket : failCount = 0
+2021-01-18 09:06:52 error: [SEND_WARNING]====================================================
+2021-01-18 09:06:52 error: [API_DATABASE_NORMALIZED] URL - http://wadmin2.inforex.co.kr/socket/dbCheck/bySocket : failCount = 0
+2021-01-18 09:06:52 error: [SEND_WARNING]====================================================
+2021-01-18 09:06:52 error: [API_DATABASE_NORMALIZED] URL - https://devphoto2.dalbitlive.com/socket/dbCheck/bySocket : failCount = 0
+2021-01-18 09:06:52 error: [SEND_WARNING]====================================================
+2021-01-18 09:06:52 error: [API_DATABASE_NORMALIZED] URL - https://devpay2.dalbitlive.com/socket/dbCheck/bySocket : failCount = 0
+2021-01-18 09:06:56 error: [SEND_WARNING]====================================================
+2021-01-18 09:06:56 error: [HEALTH_CHECK_NOMALIZED] URL - https://devapi2.dalbitlive.com/ctrl/check/service : failCount = 0
+2021-01-18 09:06:56 error: [SEND_WARNING]====================================================
+2021-01-18 09:06:56 error: [HEALTH_CHECK_NOMALIZED] URL - https://devpay2.dalbitlive.com/ctrl/check/service : failCount = 0
+2021-01-18 09:06:56 error: [SEND_WARNING]====================================================
+2021-01-18 09:06:56 error: [HEALTH_CHECK_NOMALIZED] URL - https://devphoto2.dalbitlive.com/ctrl/check/service : failCount = 0
+2021-01-18 09:06:56 error: [SEND_WARNING]====================================================
+2021-01-18 09:06:56 error: [HEALTH_CHECK_NOMALIZED] URL - https://devm2.dalbitlive.com/ctrl/check/service : failCount = 0
+2021-01-18 09:06:56 error: [SEND_WARNING]====================================================
+2021-01-18 09:06:56 error: [HEALTH_CHECK_NOMALIZED] URL - https://devwww2.dalbitlive.com/ctrl/check/service : failCount = 0
+2021-01-18 09:06:56 error: [SEND_WARNING]====================================================
+2021-01-18 09:06:56 error: [API_DATABASE_NORMALIZED] URL - https://devapi2.dalbitlive.com/socket/dbCheck/bySocket : failCount = 0
+2021-01-18 09:06:56 error: [SEND_WARNING]====================================================
+2021-01-18 09:06:56 error: [API_DATABASE_NORMALIZED] URL - http://wadmin2.inforex.co.kr/socket/dbCheck/bySocket : failCount = 0
+2021-01-18 09:06:57 error: [SEND_WARNING]====================================================
+2021-01-18 09:06:57 error: [API_DATABASE_NORMALIZED] URL - https://devphoto2.dalbitlive.com/socket/dbCheck/bySocket : failCount = 0
+2021-01-18 09:06:57 error: [SEND_WARNING]====================================================
+2021-01-18 09:06:57 error: [API_DATABASE_NORMALIZED] URL - https://devpay2.dalbitlive.com/socket/dbCheck/bySocket : failCount = 0
+2021-01-18 09:09:04 error: [SEND_WARNING]====================================================
+2021-01-18 09:09:04 error: [HEALTH_CHECK_NOMALIZED] URL - https://devapi2.dalbitlive.com/ctrl/check/service : failCount = 1
+2021-01-18 09:09:04 error: [SEND_WARNING]====================================================
+2021-01-18 09:09:04 error: [HEALTH_CHECK_NOMALIZED] URL - https://devpay2.dalbitlive.com/ctrl/check/service : failCount = 1
+2021-01-18 09:09:04 error: [SEND_WARNING]====================================================
+2021-01-18 09:09:04 error: [HEALTH_CHECK_NOMALIZED] URL - https://devphoto2.dalbitlive.com/ctrl/check/service : failCount = 1
+2021-01-18 09:09:04 error: [SEND_WARNING]====================================================
+2021-01-18 09:09:04 error: [HEALTH_CHECK_NOMALIZED] URL - https://devm2.dalbitlive.com/ctrl/check/service : failCount = 1
+2021-01-18 09:09:04 error: [SEND_WARNING]====================================================
+2021-01-18 09:09:04 error: [HEALTH_CHECK_NOMALIZED] URL - https://devwww2.dalbitlive.com/ctrl/check/service : failCount = 1
+2021-01-18 09:09:09 error: [SEND_WARNING]====================================================
+2021-01-18 09:09:09 error: [HEALTH_CHECK_NOMALIZED] URL - https://devapi2.dalbitlive.com/ctrl/check/service : failCount = 1
+2021-01-18 09:09:09 error: [SEND_WARNING]====================================================
+2021-01-18 09:09:09 error: [HEALTH_CHECK_NOMALIZED] URL - https://devpay2.dalbitlive.com/ctrl/check/service : failCount = 1
+2021-01-18 09:09:09 error: [SEND_WARNING]====================================================
+2021-01-18 09:09:09 error: [HEALTH_CHECK_NOMALIZED] URL - https://devphoto2.dalbitlive.com/ctrl/check/service : failCount = 1
+2021-01-18 09:09:09 error: [SEND_WARNING]====================================================
+2021-01-18 09:09:09 error: [HEALTH_CHECK_NOMALIZED] URL - https://devm2.dalbitlive.com/ctrl/check/service : failCount = 1
+2021-01-18 09:09:09 error: [SEND_WARNING]====================================================
+2021-01-18 09:09:09 error: [HEALTH_CHECK_NOMALIZED] URL - https://devwww2.dalbitlive.com/ctrl/check/service : failCount = 1
+2021-01-18 09:09:14 error: [SEND_WARNING]====================================================
+2021-01-18 09:09:14 error: [HEALTH_CHECK_NOMALIZED] URL - https://devapi2.dalbitlive.com/ctrl/check/service : failCount = 1
+2021-01-18 09:09:14 error: [SEND_WARNING]====================================================
+2021-01-18 09:09:14 error: [HEALTH_CHECK_NOMALIZED] URL - https://devpay2.dalbitlive.com/ctrl/check/service : failCount = 1
+2021-01-18 09:09:14 error: [SEND_WARNING]====================================================
+2021-01-18 09:09:14 error: [HEALTH_CHECK_NOMALIZED] URL - https://devphoto2.dalbitlive.com/ctrl/check/service : failCount = 1
+2021-01-18 09:09:14 error: [SEND_WARNING]====================================================
+2021-01-18 09:09:14 error: [HEALTH_CHECK_NOMALIZED] URL - https://devm2.dalbitlive.com/ctrl/check/service : failCount = 1
+2021-01-18 09:09:14 error: [SEND_WARNING]====================================================
+2021-01-18 09:09:14 error: [HEALTH_CHECK_NOMALIZED] URL - https://devwww2.dalbitlive.com/ctrl/check/service : failCount = 1
