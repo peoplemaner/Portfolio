@@ -5,7 +5,7 @@
 
 특이점
 config 설정을 통해 requestTimeOut, 호출 빈도 등 설정을 통해 장애 상태 기준 변경 가능.
-node scheduler를 사용하여 API 호출 평균 시간 집계 가능.
+node scheduler를 사용하여 API 호출 최소/최대 시간 집계 가능.
 winstom 모듈을 사용하여 로그 기록
 서버 실행은 forever 모듈 사용.
 
