@@ -1,0 +1,19 @@
+{
+  "db": {
+    "host": "localhost",
+    "user": "fivestar",
+    "password": "1234",
+    "database": "idh",
+    "connectionLimit": 1000,
+    "waitForConnections": false
+  },
+  "server": {
+    "name": "::APPServer::",
+    "port": 4000
+  },
+  "dependencies": {
+    "async": "^2.6.1",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  }
+}
