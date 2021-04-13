@@ -8,14 +8,14 @@ const conf = require("./package.json");
 app.use(express.json());
 
 process.on('uncaughtException', function (err) {
-    logger.error("unhandled exception : " + err + "\n" + err.stack);
+    console.log("unhandled exception : " + err + "\n" + err.stack);
 });
 
 const async = require('async');
 //!< DB 풀 생성.
 const mysql = require('mysql');
 try{
-	const DB = mysql.createPool(conf.db);
+	global.DB = mysql.createPool(conf.db);
 }catch(e){
 	console.log(e);
 }
