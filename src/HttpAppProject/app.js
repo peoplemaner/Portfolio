@@ -1,11 +1,13 @@
 /*
-    REST API Server for KSVR
+    REST API Server
 */
 const express = require('express');
 const app = express();
 const conf = require("./package.json");
+const user = require('./routes/user');
 
 app.use(express.json());
+app.use(express.urlencoded( {extended: false}));
 
 process.on('uncaughtException', function (err) {
     console.log("unhandled exception : " + err + "\n" + err.stack);
@@ -14,11 +16,7 @@ process.on('uncaughtException', function (err) {
 const async = require('async');
 //!< DB 풀 생성.
 const mysql = require('mysql');
-try{
-	global.DB = mysql.createPool(conf.db);
-}catch(e){
-	console.log(e);
-}
+try { global.DB = mysql.createPool(conf.db); } catch (e) { console.log(e); }
 
 app.get('/', function(req, res) {
     console.log(req.query);
@@ -30,19 +28,12 @@ app.get('/check', function(req, res) {
     res.send("Restful API GET...!");
 });
 
-app.post('/', function(req, res) {
-    console.log(req.body);
-    res.send("Restful API POST...!");
-});
+// 회원조회
+app.get('/users', (req, res) =>  { user.login(req, res); });
 
-app.listen(conf.server.port, function () {
+// 회원가입
+app.post('/users', (req, res) => { user.createUser(req, res); });
+
+app.listen(conf.server.port, () => {
     console.log('START SERVER...! ' + conf.server.port);
-    /*DB.query("SELECT * FROM ACCOUNT", function(error, result){
-        if(error){
-            console.log(error);
-        } else {
-            console.log(result[0]);
-        }
-
-    });*/
-});ß
+});

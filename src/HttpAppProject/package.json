@@ -1,9 +1,9 @@
 {
   "db": {
-    "host": "localhost",
-    "user": "fivestar",
-    "password": "1234",
-    "database": "idh",
+    "host": "127.0.0.1",
+    "user": "portfolio",
+    "password": "portfolio",
+    "database": "portfolio",
     "connectionLimit": 1000,
     "waitForConnections": false
   },
