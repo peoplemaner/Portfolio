@@ -12,7 +12,8 @@ exports.createUser = (req, res) => {
                 console.log(query.sql);
                 if (error) {
                     console.log(error);
-                    res.json({errorCode:"9000", error: 'Database Error', result: []});
+                    if (error.errno == 1062) res.json({errorCode:"1000", error: 'Duplicate nickName', result: []});
+                    else res.json({errorCode:"9000", error: 'Database Error', result: []});
                 } else {
                     console.log(result);
                     res.json({errorCode:"0000", error: '', result: []});
@@ -25,9 +26,8 @@ exports.login = (req, res) => {
     const nickName = req.body.nickName;
     const password = req.body.password;
 
-    if (!nickName || !password) {
-        res.json({errorCode:"9001", error: 'Params undefined', result: []});
-    } else {
+    if (!nickName || !password) res.json({errorCode:"9001", error: 'Params undefined', result: []});
+    else {
         const query = DB.query("SELECT * FROM user WHERE nickName = ? AND password = ?", [req.body.nickName, req.body.password], (error, result) => {
             console.log(query.sql);
             if (error) {
@@ -35,11 +35,8 @@ exports.login = (req, res) => {
                 res.json({errorCode:"9999", error: 'Database Error', result: []});
             } else {
                 console.log(result[0]);
-                if (result[0]) {
-                    res.json({errorCode:"0000", error: '', result: result});
-                } else {
-                    res.json({errorCode:"0001", error: 'Can not found user', result: []});
-                }
+                if (result[0]) res.json({errorCode:"0000", error: '', result: result});
+                else res.json({errorCode:"1001", error: 'ID or Password Invalid', result: []});
             }
         });
     }
