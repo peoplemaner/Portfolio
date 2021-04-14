@@ -1,14 +1,16 @@
 import React from "react";
 
-import logo from './logo.svg';
-import './App.css';
+import './App.scss';
+import { BrowserRouter, Route } from "react-router-dom";
+
+import RouterSwitch from "./route"
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        달빛 포트폴리오 프로젝트
-      </header>
+      <BrowserRouter>
+        <Route component={RouterSwitch} />
+      </BrowserRouter>
     </div>
   );
 }
