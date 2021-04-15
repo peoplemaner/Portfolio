@@ -1,7 +1,9 @@
-import React from 'react'
+import React from "react";
 
-export default function Main() {
+export default function MainPage() {
   return (
-    <>메인</>
-  )
+    <div className="mainWrap">
+      <p>메인</p>
+    </div>
+  );
 }
