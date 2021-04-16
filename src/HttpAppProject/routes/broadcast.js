@@ -3,7 +3,7 @@ exports.createBroadcast = (req, res) => {
     const title = req.body.title;
     const type = req.body.type;
 
-    if (!userIndex || !title || !type) res.json({errorCode:"9001", error: 'Params undefined', result: []});
+    if (!userIndex || !title || type == undefined) res.json({errorCode:"9001", error: 'Params undefined', result: []});
     else {
         const query = DB.query("INSERT INTO `broadcasts` (`userIndex`, `title`, `type`, `createDate`) VALUES (?, ?, ?, NOW())", 
             [req.body.userIndex, req.body.title, req.body.type],

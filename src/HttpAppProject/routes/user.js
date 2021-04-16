@@ -3,9 +3,8 @@ exports.createUser = (req, res) => {
     const password = req.body.password;
     const sex = req.body.sex;
 
-    if (!nickName || !password || !sex) {
-        res.json({errorCode:"9001", error: 'Params undefined', result: []});
-    } else {
+    if (!nickName || !password || sex == undefined) res.json({errorCode:"9001", error: 'Params undefined', result: []});
+    else {
         const query = DB.query("INSERT INTO `user` (`nickName`, `password`, `sex`, `createData`) VALUES (?, ?, ?, NOW())", 
             [req.body.nickName, req.body.password, req.body.sex],
             (error, result) => {

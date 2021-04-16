@@ -13,7 +13,9 @@ app.use(express.urlencoded( {extended: false}));
 app.use(cors());
 
 app.use((req, res, next) => {
-    console.log(`url: ${req.headers.host}${req.path} / query: ${JSON.stringify(req.query)} / body: ${JSON.stringify(req.body)}`);
+    const ip = req.headers['x-forwarded-for'] ||  req.connection.remoteAddress;
+
+    console.log(`url: ${req.headers.host}${req.path} / accessIP: ${ip} / query: ${JSON.stringify(req.query)} / body: ${JSON.stringify(req.body)}`);
     next();
 });
 
